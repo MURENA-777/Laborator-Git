@@ -1,0 +1,7 @@
+# Исходное содержимое (изменение в main ветке)
+This is the original line from main branch.
+Additional information for the project.
+Version: 1.0.0
+
+# Изменение в feature ветке будет тут же
+Feature branch modification here.
